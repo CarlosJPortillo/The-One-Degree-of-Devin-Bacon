@@ -1,5 +1,0 @@
-Open link provided below to display web app hosted on my school's server.
-Note that this web app uses a condensed database, so it will only list
-movies by an actor no later than 2005
-
-http://u.arizona.edu/~cjportillo/cscv337/homework6/mymdb.php
