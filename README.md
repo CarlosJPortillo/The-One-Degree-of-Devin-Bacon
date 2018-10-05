@@ -1,2 +1,2 @@
 # The-One-Degree-of-Devin-Bacon
-A web application where someone can enter in an actor's name to see if he/she was ever in a movie with Kevin Bacon. Instructions(READ_FIRST).txt provides link to where you can run this web application. 
+A web application where someone can enter in an actor's name to see if he/she was ever in a movie with Kevin Bacon. This app does not run anymore where it was hosted before. My school's server has taken down the database that this project used before. I do not have the database data either. Though I might try to find the database tables used for this assignment it online somewhere else and readjust the code to run a on a local server.
